@@ -1,2 +1,0 @@
-# sodyba
-Created with CodeSandbox
